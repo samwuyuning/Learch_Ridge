@@ -10,22 +10,8 @@ $ docker build -t learch .
 $ docker run -it learch
 ```
 
-## Citing Learch
-```
-@inproceedings{10.1145/3460120.3484813,
-  author = {He, Jingxuan and Sivanrupan, Gishor and Tsankov, Petar and Vechev, Martin},
-  title = {Learning to Explore Paths for Symbolic Execution},
-  year = {2021},
-  isbn = {9781450384544},
-  publisher = {Association for Computing Machinery},
-  address = {New York, NY, USA},
-  url = {https://doi.org/10.1145/3460120.3484813},
-  doi = {10.1145/3460120.3484813},
-  booktitle = {Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security},
-  pages = {2526–2540},
-  numpages = {15},
-  keywords = {fuzzing, symbolic execution, machine learning, program testing},
-  location = {Virtual Event, Republic of Korea},
-  series = {CCS '21}
-}
-```
+## Authors
+* Xiecongyou Yang
+* Yimeng He
+* Yuning Wu
+* William Li
