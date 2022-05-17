@@ -1,0 +1,13 @@
+[
+base64
+basename
+basenc
+cat
+cksum
+comm
+csplit
+date
+dircolors
+du
+echo
+env

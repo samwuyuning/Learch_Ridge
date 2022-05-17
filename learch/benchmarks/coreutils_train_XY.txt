@@ -1,0 +1,13 @@
+b2sum
+base32
+chcon
+chgrp
+chmod
+chown
+chroot
+cp
+cut
+dd
+df
+dir
+dirname

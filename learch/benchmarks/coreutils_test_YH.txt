@@ -1,0 +1,13 @@
+fmt
+fold
+groups
+head
+hostid
+id
+join
+link
+ln
+logname
+ls
+mkfifo
+mktemp

@@ -1,0 +1,13 @@
+paste
+pathchk
+pr
+printenv
+pwd
+realpath
+rm
+rmdir
+sha1sum
+sha256sum
+sha512sum
+sleep
+stat

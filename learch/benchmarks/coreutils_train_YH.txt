@@ -1,0 +1,13 @@
+expand
+expr
+factor
+false
+ginstall
+md5sum
+mkdir
+mknod
+nice
+nl
+nohup
+numfmt
+od

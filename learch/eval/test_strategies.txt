@@ -1,0 +1,4 @@
+random-path
+nurs:depth
+sgs
+feedforward train/trained/feedforward_3.pt

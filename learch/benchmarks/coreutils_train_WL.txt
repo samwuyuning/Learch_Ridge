@@ -1,0 +1,12 @@
+stdbuf
+sync
+tac
+tee
+touch
+tr
+truncate
+tsort
+tty
+uptime
+who
+whoami

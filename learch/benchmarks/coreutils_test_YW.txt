@@ -1,0 +1,13 @@
+mv
+nproc
+pinky
+printf
+readlink
+runcon
+seq
+sha224sum
+sha384sum
+shred
+shuf
+sort
+split
